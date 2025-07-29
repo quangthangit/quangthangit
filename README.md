@@ -12,7 +12,9 @@ const info = {
 </pre>
 </div>
 
-![GIF](https://media1.giphy.com/media/V69LhUggYIg6qmKUoD/giphy.gif)
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 I'm a passionate developer 🚀 and music lover 🎵.  
 Welcome to my GitHub profile! Here you'll find my work, projects, and things I care about.
