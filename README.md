@@ -4,7 +4,10 @@
 <pre>
 const info = {
   fullName: 'Quang Thang',
-  nickname: 'Blu Sky',
+  nickname: 'windy',
+  age: '999+ ^^',
+	gender: 'male',
+  email : 'thangtq.it@gmail.com'
 };
 </pre>
 
