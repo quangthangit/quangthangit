@@ -13,7 +13,7 @@ const info = {
 </div>
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFoeWF3cXhsMXJjdHhwanV0bXRiZnBnMWw1NzJkb2l4dHVjaGZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V69LhUggYIg6qmKUoD/giphy.gif"  />
 </div>
 
 I'm a passionate developer 🚀 and music lover 🎵.  
