@@ -1,35 +1,13 @@
 ### 🎧 Hi, I'm Quang Thắng!
 
 <div style="border: 2px solid #0033cc; border-radius: 10px; padding: 10px; background-color: #f9f9f9; font-family: monospace; max-width: 500px;">
-
-<div style="
-  border: 2px solid #0066cc;
-  border-radius: 12px;
-  padding: 16px;
-  background-color: #f0f8ff;
-  font-family: Consolas, monospace;
-  max-width: 500px;
-  color: #003366;
-  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.05);
-  margin: auto;
-">
-
-  <h3 style="
-    margin-top: 0;
-    margin-bottom: 12px;
-    font-size: 18px;
-    color: #00509e;
-    font-family: Arial, sans-serif;
-  ">
-    💻 Developer Info
-  </h3>
-
-  <pre style="margin: 0;">
+<pre>
 const info = {
   fullName: 'Quang Thang',
   nickname: 'Blu Sky',
 };
-  </pre>
+</pre>
+
 </div>
 I'm a passionate developer 🚀 and music lover 🎵.  
 Welcome to my GitHub profile! Here you'll find my work, projects, and things I care about.
