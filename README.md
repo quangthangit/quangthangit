@@ -32,8 +32,6 @@ const info = {
   </pre>
 </div>
 
-
-
 I'm a passionate developer 🚀 and music lover 🎵.  
 Welcome to my GitHub profile! Here you'll find my work, projects, and things I care about.
 
