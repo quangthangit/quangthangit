@@ -24,8 +24,3 @@ Welcome to my GitHub profile! Here you'll find my work, projects, and things I c
   <img src="https://github-readme-stats.vercel.app/api?username=quangthangit&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quangthangit/quangthangit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quangthangit/quangthangit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quangthangit/quangthangit/output/pacman-contribution-graph.svg">
-</picture>
