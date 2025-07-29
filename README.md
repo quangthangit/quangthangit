@@ -5,7 +5,7 @@
 const info = {
   fullName: 'Quang Thang',
   nickname: 'windy',
-  age: '99+ ^^',
+  age: '22',
   gender: 'male',
   email : 'thangtq.it@gmail.com'
 };
