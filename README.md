@@ -1,4 +1,3 @@
 # 🎧 Hi, I'm Quang Thắng!
 
-## 🔊 Now Playing on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=9e7bfe94b6ba4286bec6ea74cbf93b67&cover_image=true&theme=default)](https://open.spotify.com/user/9e7bfe94b6ba4286bec6ea74cbf93b67)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31whoelinrjujzksq3vzrqic2ykm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=254dad&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
