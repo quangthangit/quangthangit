@@ -1,5 +1,17 @@
 ### 🎧 Hi, I'm Quang Thắng!
 
+<div style="border: 2px solid #0033cc; border-radius: 10px; padding: 10px; background-color: #f9f9f9; font-family: monospace; max-width: 500px;">
+
+<pre>
+const info = {
+  fullName: 'Quang Thang',
+  nickname: 'Blu Sky',
+};
+</pre>
+
+</div>
+
+
 I'm a passionate developer 🚀 and music lover 🎵.  
 Welcome to my GitHub profile! Here you'll find my work, projects, and things I care about.
 
