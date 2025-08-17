@@ -12,19 +12,13 @@ const info = {
 </pre>
 </div>
 
-![GIF](./gif/gif.gif)
 
-I'm a passionate developer 🚀 and music lover 🎵.  
-Welcome to my GitHub profile! Here you'll find my work, projects, and things I care about.
-
+<img src="./gif/gif.gif" alt="GIF" width="250"/>
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31whoelinrjujzksq3vzrqic2ykm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=47f92f&bar_color_cover=false)](https://open.spotify.com/user/31whoelinrjujzksq3vzrqic2ykm)
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=quangthangit)
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangthangit&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangthangit&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quangthangit&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangthangit&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangthangit&theme=radical&utcOffset=7)
-
-
+✨ _Thanks for visiting my profile!_ ✨
