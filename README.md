@@ -12,7 +12,7 @@ const info = {
 </pre>
 </div>
 
-![GIF](https://media1.giphy.com/media/V69LhUggYIg6qmKUoD/giphy.gif)
+![GIF](./gif/gif.gif)
 
 I'm a passionate developer 🚀 and music lover 🎵.  
 Welcome to my GitHub profile! Here you'll find my work, projects, and things I care about.
@@ -21,8 +21,10 @@ Welcome to my GitHub profile! Here you'll find my work, projects, and things I c
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31whoelinrjujzksq3vzrqic2ykm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=47f92f&bar_color_cover=false)](https://open.spotify.com/user/31whoelinrjujzksq3vzrqic2ykm)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangthangit&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=quangthangit&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quangthangit&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quangthangit&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quangthangit&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quangthangit&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quangthangit&theme=radical&utcOffset=7)
+
 
