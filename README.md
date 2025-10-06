@@ -12,10 +12,6 @@ const info = {
 </pre>
 </div>
 
-
-<img src="./gif/gif.gif" alt="GIF" width="250"/>
-
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31whoelinrjujzksq3vzrqic2ykm&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=47f92f&bar_color_cover=false)](https://open.spotify.com/user/31whoelinrjujzksq3vzrqic2ykm)
 
 ✨ _Thanks for visiting my profile!_ ✨
