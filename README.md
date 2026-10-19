@@ -4,8 +4,8 @@
 <pre>
 const info = {
   fullName: 'Quang Thang',
-  nickname: 'windy',
-  age: '22',
+  nickname: 'wendy',
+  age: '23',
   gender: 'male',
   email : 'thangtq.it@gmail.com'
 };
